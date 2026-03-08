@@ -1,4 +1,6 @@
-body { text-align: center; }
+body { 
+  text-align: center;
+}
 
 .container {
   display: flex;
@@ -76,3 +78,4 @@ right: 20px;
 font-size: 18px;
 color: #444;
 }
+
